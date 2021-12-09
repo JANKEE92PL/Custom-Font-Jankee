@@ -2,18 +2,16 @@
 
 You can use the [editor on GitHub](https://github.com/JANKEE92PL/Custom-Font-Jankee/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Font
 
 ```Handwritten, adapted to height and width using Calligraphy Tools.
 Typography is very interesting Topic and in this Repo
 I would like to show you how easy you can create your Own Font using externel Services.
-
 ```
 
 > For internal using only
-> 
+
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ## Jankee Font
